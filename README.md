@@ -11,8 +11,9 @@ The project consists of turning on an RGB led applying different effects such as
 ### Instalation 🔧
 *For this project I used an arduino nano and an RGB led connected to pins 9, 10 and 11 with PWM capability to support the breathing effect.
 As an extra in the stroboscopic effect, its frequency can also be modified.*
+![Diagram](https://github.com/alexminator/SerialMenu/blob/master/SerialMenu_bb.jpg?raw=true)
 
-## Build with 🛠️
+### Build with 🛠️
 * [VSCODE](https://code.visualstudio.com/) -A source code editor.
 * [PlatFormio](https://platformio.org/) - Open programming IDE for C/C++, hardware oriented.
 
